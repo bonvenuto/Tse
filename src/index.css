@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Lora', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #FBF9F5;
+  color: #1C1917;
+}
+
+/* Tabular numerals for data and comparison grids */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

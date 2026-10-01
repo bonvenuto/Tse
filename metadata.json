@@ -1,0 +1,6 @@
+{
+  "name": "Raio-X das Candidaturas 2026",
+  "description": "Plataforma cívica, neutra e auditável para consulta e fiscalização das candidaturas às Eleições Gerais de 2026 no Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
